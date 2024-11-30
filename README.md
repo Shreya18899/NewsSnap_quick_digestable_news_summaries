@@ -1,1 +1,1 @@
-# Data_Science_Pipeline
+NewsSnap - Quick, digestable news summaries

@@ -1,5 +1,5 @@
-**NewsSnap - Quick, digestable news summaries
-**
+NewsSnap - Quick, digestable news summaries
+
 Summarization app performing two kinds of summarization
   - Extractive Summarization
   - Abstractive Summarization
